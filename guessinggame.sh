@@ -1,6 +1,6 @@
 #!/bin/bash
 
-number_of_files=10
+number_of_files=$RANDOM
 number_of_guesses=1
 for (( ; ; ))
 do
