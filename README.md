@@ -1,4 +1,3 @@
-	# This is a large heading
 
 ## Guessing Game
 
